@@ -29,3 +29,7 @@ Transformers (Hugging Face)
 Torch (PyTorch backend)
 
 #Fine Tuning Sctips are also added for all the models. 
+
+APPLICATION SCREENSHOT
+![alt text](image.png)
+![alt text](image-1.png)
