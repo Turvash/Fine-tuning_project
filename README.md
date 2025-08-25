@@ -27,3 +27,5 @@ Tkinter (GUI framework)
 Transformers (Hugging Face)
 
 Torch (PyTorch backend)
+
+#Fine Tuning Sctips are also added for all the models. 
